@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<books>
+    <book>
+        <bookName lang="en">To Kill a Mockingbird</bookName>
+        <bookPrice>999</bookPrice>
+        <authorName>Harper Lee</authorName>
+    </book>
+
+    <book>
+        <bookName lang="en">The Catcher in the Rye</bookName>
+        <bookPrice>899</bookPrice>
+        <authorName>J.D. Salinger</authorName>
+    </book>
+
+    <book>
+        <bookName lang="en">The Tempest</bookName>
+        <bookPrice>999</bookPrice>
+        <authorName>William Shakespeare</authorName>
+    </book>
+
+    <book>
+        <bookName lang="en">The Great Gatsby</bookName>
+        <bookPrice>1099</bookPrice>
+        <authorName>F.Scott Fitzgerald</authorName>
+    </book>
+
+    <book>
+        <bookName lang="en">Hamlet</bookName>
+        <bookPrice>999</bookPrice>
+        <authorName>William Shakespeare</authorName>
+    </book>
+
+    <book>
+        <bookName lang="hi">Madhushala</bookName>
+        <bookPrice>999</bookPrice>
+        <authorName>Harivansh Rai Bachchan</authorName>
+    </book>
+
+    <book>
+        <bookName lang="hi">Ramayana</bookName>
+        <bookPrice>999</bookPrice>
+        <authorName>Valmiki</authorName>
+    </book>
+    <book>
+        <bookName lang="hi">Mahabharata</bookName>
+        <bookPrice>999</bookPrice>
+        <authorName>Vyasa</authorName>
+    </book>
+    <book>
+        <bookName lang="hi">Nirmala</bookName>
+        <bookPrice>899</bookPrice>
+        <authorName>Munshi Premchand</authorName>
+    </book>
+    <book>
+        <bookName lang="hi">Chanakya Neeti</bookName>
+        <bookPrice>899</bookPrice>
+        <authorName>Aswini Parashar</authorName>
+    </book>
+</books>
